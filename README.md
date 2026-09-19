@@ -99,7 +99,7 @@ I have professional experience working with automation technologies including:
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](www.linkedin.com/in/logan-dawes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/logan-dawes)
 
 Feel free to explore my repositories and follow along as I continue learning and building new projects.
 
