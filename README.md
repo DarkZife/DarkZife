@@ -97,15 +97,9 @@ I have professional experience working with automation technologies including:
 - Azure DevOps
 - SQL Server Reporting Services
 
-## 📊 GitHub Stats
-
-![Logan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkZife&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkZife&layout=compact&theme=tokyonight)
-
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR-LINKEDIN-LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/logan-dawes)
 
 Feel free to explore my repositories and follow along as I continue learning and building new projects.
 
